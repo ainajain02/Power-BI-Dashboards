@@ -22,6 +22,7 @@ To get started with the projects, follow these steps:
   This repository contains the following dashboard project:
 
 - [Project1 - HR analytics dashboard](https://github.com/ainajain02/Power-BI-Dashboards/tree/main/Project%201-%20HR%20Analytics) : A dashboard that displays HR data for a company, including Attrition count of Employees, Job Satisfaction rate, and Job Roles.
+- [Projext 2 - Addidas US Sales dashboard](https://github.com/ainajain02/Power-BI-Dashboards/tree/main/Project%202-%20Addidas%20US%20Sales) : 
 
   Each project folder contains a README.md file that describes the purpose of the dashboard, the data sources used, and any other relevant information. You can also find screenshots of the dashboard.
 
