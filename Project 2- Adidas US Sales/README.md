@@ -4,7 +4,8 @@ This repository contains a Power BI dashboard designed to analyze Adidas US sale
 ## Overview of the Dashboard:
 The dashboard provides a comprehensive analysis of Adidas's sales performance in the US, helping stakeholders quickly understand key business metrics such as sales figures, profit margins, and orders. The analysis also includes breakdowns by product type, region, and sales channel to help identify opportunities and trends.
 
-![Screenshot 2024-09-14 210102](https://github.com/user-attachments/assets/4f03f9d8-8dc0-42cb-a2b6-be5f430eddb9)
+![Screenshot 2024-09-14 223700](https://github.com/user-attachments/assets/0bec7dec-e5a8-4f0b-9c44-ebd893e0aa44)
+
 
 ### Key Metrics Displayed:
 - Total Sales: $899.9M
@@ -21,7 +22,8 @@ Profit margins remained healthy at over 42%, reflecting efficient operations and
 - Topmost retailers with highest profit($74.3M) and sales($192.5M) are Sports Direct in a State Texas.
 
 ## Adidas US Sales Dashboard (2020)
-![Screenshot 2024-09-14 210115](https://github.com/user-attachments/assets/578e71ce-df40-4fed-8fc0-bfefcdf34f3b)
+![Screenshot 2024-09-14 223717](https://github.com/user-attachments/assets/bb044194-8251-4864-869f-7a3f37e2d1a2)
+
 
 ### Key Metrics Displayed:
 - Total Sales: $182.1M
@@ -36,7 +38,8 @@ Profit margins remained healthy at over 42%, reflecting efficient operations and
 - Retailers: Top-performing retailers like Foot Locker and Kohl's helped drive a large portion of sales. Focus on optimizing these partnerships could further boost revenue.
 
 ## Adidas US Sales Dashboard (2021)
-![Screenshot 2024-09-14 210130](https://github.com/user-attachments/assets/63a044e1-43a5-4c96-af28-3e0b27f1feb6)
+![Screenshot 2024-09-14 223738](https://github.com/user-attachments/assets/e67de18d-67af-46c9-95b2-40c5bba4ad92)
+
 
 ### Key Metrics Displayed:
 - Total Sales: $717.8M
